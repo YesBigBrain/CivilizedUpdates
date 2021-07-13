@@ -1,0 +1,4 @@
+*Created Spear (UnTextured)
+*Created Bow (UnTextured)
+*Created Remington 870 (UnTextured)
+*Textured Remington 870
