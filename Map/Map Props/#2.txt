@@ -1,0 +1,5 @@
+*Created Lamp Model (UnTextured)
+*Created Streetlight (UnTextured)
+*Created Chair (UnTextured)
+*Created Trash Can(UnTextured)
+*Created Table (UnTextured)
