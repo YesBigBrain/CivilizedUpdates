@@ -1,0 +1,4 @@
+*New Bugs In Need Of Fixing
+    -Server Id dosent save properly throughout servers.
+    -Server player count does not update properly
+    -Generating new server id's are slows
