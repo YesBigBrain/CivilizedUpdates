@@ -1,0 +1,6 @@
+*Textured Bow Model
+*Baked Bow Model
+*Rendered Bow Icon
+*Textured Arrow
+*Baked Arrow Textures
+*Rendered Arrow Icon
