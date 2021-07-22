@@ -19,9 +19,14 @@ Current sections are as follows :
    - **Items**: New itemssuch as bandages, food items, etc. [Go There](./Assets/Items)
    - **Weapons** : Any new weapons from spears to guns to missles 😀 . [Go There](./Assets/Weapons)
    - **Animations** : Any new animations for the game. [Go There](./Assets/Animations)
+   - **Clothing** : Any new clothing items from armour to shoes and gloves. [Go There](./Assets/Clothing)
 5. **Player** : Anything that has to do with the player, from guis to other player related systems. [Go There](./Player)
    - **Player Systems** : Anything that has to do with the player, such as animations and hunger and health systems. [Go There](./Player/Player%20Systems)
    - **Player Ui** : Anything to do with the ui that the player sees. [Go There](./Player/Player%20Ui)
+
+## CURRENT GAME PROGRESS
+- [ ] - Combat Testing (At 500 Discord Members)
+- [ ] - Pre-Alpha Release (At 1000 Discord Members)
 
 ## GAME INFO
 [Discord Invite](https://discord.gg/5xbuHZxnyR)
