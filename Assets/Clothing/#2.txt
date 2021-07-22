@@ -1,0 +1,3 @@
+*Created Teir 1 Armour for block rig(basic textures)
+*Created Teir 2 Armour for block rig(basic textures)
+*Created Teir 3 Armour for block rig(basic textures)
