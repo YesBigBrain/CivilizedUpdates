@@ -1,0 +1,3 @@
+*Created Bow Holding Animation
+*Created Bow Loading Animation
+*Created Bow Shoot Animation
