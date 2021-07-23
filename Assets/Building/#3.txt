@@ -1,0 +1,2 @@
+*Fixed Door Opening UI Not Showing On Doors
+*Created A "Door Is Locked" When You Cannot Open The Door
