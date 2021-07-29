@@ -1,0 +1,3 @@
+*Optimized server generation to make it faster
+*Fixed saving server id's
+*Fixed ammount of players in server not showing up
