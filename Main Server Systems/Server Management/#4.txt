@@ -1,0 +1,1 @@
+*Created a early warn system (when there is a server shutdown a prompt will show up warning you a shutdown is gonna happen)
