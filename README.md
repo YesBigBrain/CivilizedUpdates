@@ -8,7 +8,7 @@ Current sections are as follows :
 1. **GithubUpdates** : Notes down all the changes to the github such as new folder's being added. [Go There](./GithubUpdates)
 2. **Main Server Systems** : Notes down all changes to the main systems such as currency management, server management, etc. [Go There](./Main%20Server%20Systems)
    - **Currency** : System for currency, such as using Civilized bot currecy for exchange into in game credits. [Go There](./Main%20Server%20Systems/Currency)
-   - **Saving** : System for saving and storig everything from your base down to the exact time of time you have played the game. [Go There](./Main%20Server%20Systems/Saving)
+   - **Saving** : System for saving and storing everything from your base down to the exact time of time you have played the game. [Go There](./Main%20Server%20Systems/Saving)
    - **Server Management** : Generating new servers and managing wipes. [Go There](./Main%20Server%20Systems/Server%20Management)
 3. **Map** : Notes down any changes to the map. From terrain generation to new monuments. [Go There](./Map)
    - **Map Generation** : Generating terrain, roads, rivers, lakes, monuments, etc. [Go There](./Map/Map%20Generation)
@@ -23,10 +23,7 @@ Current sections are as follows :
 5. **Player** : Anything that has to do with the player, from guis to other player related systems. [Go There](./Player)
    - **Player Systems** : Anything that has to do with the player, such as animations and hunger and health systems. [Go There](./Player/Player%20Systems)
    - **Player Ui** : Anything to do with the ui that the player sees. [Go There](./Player/Player%20Ui)
-
-## CURRENT GAME PROGRESS
-- [ ] - Combat Testing (At 500 Discord Members)
-- [ ] - Pre-Alpha Release (At 1000 Discord Members)
+   - **Inventory System** : Anything to do with the player inventory [Go There](./Player/Inventory%20System)
 
 ## GAME INFO
 [Discord Invite](https://discord.gg/5xbuHZxnyR)
